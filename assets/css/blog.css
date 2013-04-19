@@ -1,15 +1,4 @@
-body,h1,h2,h3,h4,h5,h6,ul,ol,dl,p{margin:0;padding:0;}
-img{border:0 none;}
-ul,ol,dl{list-style:none;}
-a{text-decoration:none;}
-body{background:#F0F0F0;font-size:12px;font-family:Microsoft Yahei, Verdana, Helvetica, Helvetica Neue, Microsoft Yahei, Arial;}body a{cursor:pointer;}
-
-#header{
-    background:#f9f9f9; height:300px;overflow:hidden;border-bottom:1px solid #D6D6D6;
-    font-size: 36px;
-}
-
-#content {
+body{background:#F0F0F0;font-size:14px;font-family:Microsoft Yahei, Verdana, Helvetica, Helvetica Neue, Microsoft Yahei, Arial;}body a{cursor:pointer;
     width: 70%;
     margin: 0 auto;
 }
