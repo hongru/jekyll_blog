@@ -1,4 +1,6 @@
-body{background:#F0F0F0;font-size:14px;font-family:Microsoft Yahei, Verdana, Helvetica, Helvetica Neue, Microsoft Yahei, Arial;}body a{cursor:pointer;
+body{background:#F0F0F0;font-size:14px;font-family:Microsoft Yahei, Verdana, Helvetica, Helvetica Neue, Microsoft Yahei, Arial;
     width: 70%;
     margin: 0 auto;
 }
+
+body a{cursor:pointer;}
